@@ -30,16 +30,6 @@ O jogo exibe mensagens na tela e também **fala as dicas** usando a **Web Speech
 
 ---
 
-## 📂 Estrutura do projeto
-
-- index.html # Estrutura do jogo
-- style.css # Estilização e responsividade
-- app.js # Lógica do jogo
-- img/ # Imagens utilizadas no layout
-
-
----
-
 ## 🖥️ Como executar
 
 1. Baixe ou clone este repositório:
