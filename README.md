@@ -33,6 +33,6 @@ O jogo exibe mensagens na tela e também **fala as dicas** usando a **Web Speech
 ## 🖥️ Como executar
 
 1. Baixe ou clone este repositório:
-   - git clone https://github.com/usuario/jogo-numero-secreto.git
+   - git clone https://github.com/orenanfelix43/jogo-numero-secreto.git
 2. Abra o arquivo index.html em qualquer navegador moderno.
 3. Digite um número e tente descobrir o número secreto! 🎉
